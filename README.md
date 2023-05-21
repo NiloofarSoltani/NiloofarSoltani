@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning Python, Solidity, Agile, github.
 - 👯 I’m looking to collaborate on any project related to these fields.
 - 📫 How to reach me: I put my social connections in  github profile.
-- ⚡ Fun fact: ...
 
 <h2>Background </h2>
 I graduated from PNU university with a bachelor of science in Aerospace engineering.I have worked at some of the top firms in the industry as a web developer,but I have found new passion in data science and cryptocurrency.
