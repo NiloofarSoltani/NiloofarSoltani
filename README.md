@@ -5,8 +5,8 @@
 
 - 🔭 I’m currently working on [Python in Financial Analysis and Algorithmic Trading](https://github.com/NiloofarSoltani/finantioal-analaysis)
 
-- 🌱 I’m currently learning **different libraries in Python and just started Solidity.**
-
+- 🌱 I’m currently learning **different libraries in Python.
+- 
 - 👯 I’m looking to collaborate on **any project related to AI and Cryptocurrency fields.**
 
 - 🤝 I’m looking for help with **improving my skills in the fields above**
