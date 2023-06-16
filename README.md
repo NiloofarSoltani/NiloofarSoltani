@@ -19,13 +19,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niloofarsoltani&label=Profile%20views&color=0e75b6&style=flat" alt="niloofarsoltani" /> </p>
 
-- 🔭 I’m currently working on [Python in Financial Analysis and Algorithmic Trading](https://github.com/NiloofarSoltani/finantioal-analaysis)
-
-- 🌱 I’m currently learning **different libraries in Python.**
-
-- 👯 I’m looking to collaborate on **any project related to AI and Cryptocurrency fields.**
-
-- 🤝 I’m looking for help with **improving my skills in the fields above**
+Let's talk about Blockchain.
 
 - 📫 How to reach me **nilstn92@gmail.com**
 
