@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Niloofar</h1>
 <h3 align="center">A Blockchain Enthusiast</h3>
 
-<h4 align="center"> Right now I'm looking for a company to start an internship and learn blockchain professionally.If you can help me find one, Please contact me with the links below!<br /><br />Thank you</h4>
+<h4 align="center"> Right now I'm looking for a company to start an internship. If you can help me find one, Please contact me with the links below!<br /><br />Thank you</h4>
  </h4>
 
 <h3 align="left">Languages and Tools:</h3>
